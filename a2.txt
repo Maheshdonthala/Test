@@ -1,3 +1,0 @@
-Hello
-From a2.txt from Gui
-v3 from gui
